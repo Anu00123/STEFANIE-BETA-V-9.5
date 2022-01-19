@@ -129,7 +129,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install Stefanie Bot.`
 
 #### You can easily get the QR code Repl.it .. Click the button below
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/STEFANIE-BETA-V-9.5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anu00123/STEFANIE-BETA-V-9.5?organization=Anu00123&organization=Anu00123/github.com/Kaweeshachamodk/STEFANIE-BETA-V-9.5)
 
 
 > [Sinhala Youtube Tutorial](https://youtu.be/sEtocRRzTno)
